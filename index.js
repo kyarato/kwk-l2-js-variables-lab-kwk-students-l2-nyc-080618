@@ -1,4 +1,4 @@
 // Code your solution in this file!
 companyName = "scuber"
 mostProfitableNeighborhood = 'Chelsea'
-const companyCEO = 'Susan Smith'
+let companyCEO = 'Susan Smith'
